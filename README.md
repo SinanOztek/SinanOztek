@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinanOztek
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Python, SQL, R ,algorithm
+- 🌱 I’m currently learning UNİTY C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sinan.oztek@hotmail.com
 
